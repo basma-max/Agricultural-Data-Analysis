@@ -28,7 +28,8 @@ The analysis reveals insights into Morocco’s agricultural productivity, includ
 - **Yield Variability**: Shows yield variability across regions and crop types.
 - **Resource Management**: Identifies regions with efficient resource use versus areas needing improvement.
 - **Growth Trends**: Highlights regions showing strong growth or decline in agricultural productivity.
--For more detailed insights and in-depth analysis, please refer to the full report provided in this repository.
+  
+For more detailed insights and in-depth analysis, please refer to the full report provided in this repository.
 ## Contributing
 This project was developed by **Khadija Ben Madane** and **Basma El Barki**. Contributions are encouraged! Follow the standard contribution guidelines to submit your suggestions or improvements.
 
