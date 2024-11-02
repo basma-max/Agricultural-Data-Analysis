@@ -1,4 +1,4 @@
-# Agricultural Sector Analysis in Morocco
+# Data Driven Agriculture Analysis
 
 Welcome to the Agricultural Sector Analysis project! This project provides a comprehensive examination of Morocco's agricultural industry, using data from the **High Commission for Planning (HCP)** and other sources. Our goal is to identify trends, regional differences, and areas for improvement within Morocco's agriculture, covering key sectors like crop production, livestock, forestry, and fisheries.
 
